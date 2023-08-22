@@ -11,6 +11,8 @@
   </a>
 </div>
 
+![snake gif](https://github.com/joaoweslen/joaoweslen/blob/output/github-contribution-grid-snake.gif)
+
  ##
 
 <div align="center">
