@@ -12,9 +12,13 @@
  </div>
 
 <!--
-##
+ ##
 ![snake gif](https://github.com/joaoweslen/joaoweslen/blob/output/github-contribution-grid-snake.gif)
 -->
+
+ ##
+
+[![joão github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaoweslen&bg_color=0d1117&color=1E90FF&line=00BFFF&point=00FFFF&area=true&hide_border=true&custom_title=Meu%20Gráfico%20de%20Contribuições)](https://github.com/joaoweslen/github-readme-activity-graph)
 
  ##
 
