@@ -9,9 +9,12 @@
   <a href="https://github.com/joaoweslen/convoychat">
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoweslen&show_icons=true&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=1E90FF&bg_color=0d1117&locale=pt-br"/>
   </a>
-</div>
+ </div>
 
+<!--
+##
 ![snake gif](https://github.com/joaoweslen/joaoweslen/blob/output/github-contribution-grid-snake.gif)
+-->
 
  ##
 
